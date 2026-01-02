@@ -15,7 +15,7 @@
 - **Data Structures & Algorithms (Java)**  
 - **Machine Learning (Basics – scikit-learn)**  
 - **JavaScript (Learning)**  
-- **C **  
+- C   
 - **Git & GitHub**
 
 ---
