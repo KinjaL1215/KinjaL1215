@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Kinjal  
 
-<!--
-**KinjaL1215/KinjaL1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Learning Java | DSA | Git & GitHub  
+🤖 Exploring AI / Machine Learning with Python  
+🌐 Learning JavaScript for MERN Stack  
+🚀 Interested in Software Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+
+- **Java**  
+- **Python**  
+- **Data Structures & Algorithms (Java)**  
+- **Machine Learning (Basics – scikit-learn)**  
+- **JavaScript (Learning)**  
+- **C / C++**  
+- **Git & GitHub**
+
+---
+
+## 📌 Current Focus  
+
+- Improving **DSA in Java**  
+- Learning **Machine Learning fundamentals**  
+- Practicing **JavaScript for MERN Stack**  
+- Building **small projects**
