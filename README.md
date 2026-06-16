@@ -1,28 +1,45 @@
-# Hi 👋 I'm Kinjal  
+Hi, I'm Kinjal Kharva 👋
+Computer Science Engineer | Backend & ML Developer | DSA Solver
+🎓 B.Tech CSE Student at Parul University (CGPA: 8.72)
 
-🎓 B.Tech CSE Student  
-💻 Learning Java | DSA | Git & GitHub  
-🤖 Exploring AI / Machine Learning with Python  
-🌐 Learning JavaScript for MERN Stack  
-🚀 Interested in Software Development  
+💻 Passionate about building secure backend pipelines, AI-integrated software, and optimizing algorithmic solutions.
 
----
+🚀 Portfolio:  https://kinjal-portfolio.vercel.app/
 
-## 🛠️ Skills  
+About Me
+💡 Interested in Backend Systems, Machine Learning, and Cloud Architecture
+🤖 Exploring Generative AI, secure RAG systems (PII masking), and Computer Vision
+🌱 Currently improving my skills in Python, Java, DSA, and AWS Cloud
+🏆 Solved 500+ coding problems across various platforms
+📈 LeetCode: 330+ solved
+📊 CodeChef: 190+ solved
+🎯 Goal: Secure a Software Engineering Internship / Developer role and build impactful AI-driven products
 
-- **Java**  
-- **Python**  
-- **Data Structures & Algorithms (Java)**  
-- **Machine Learning (Basics – scikit-learn)**  
-- **JavaScript (Learning)**  
-- C   
-- **Git & GitHub**
+Tech Stack
+Languages
+Python • Java • C • JavaScript • SQL • HTML • CSS
 
----
+Backend
+Flask • Node.js • Express.js • REST APIs • SQLAlchemy
 
-## 📌 Current Focus  
+Frontend
+React.js • Tailwind CSS • JavaScript
 
-- Improving **DSA in Java**  
-- Learning **Machine Learning fundamentals**  
-- Practicing **JavaScript for MERN Stack**  
-- Building **small projects**
+Databases
+MongoDB • SQLite • SQL • ChromaDB (Vector DB)
+
+AI / Machine Learning
+Machine Learning • Computer Vision • OpenCV • MediaPipe • Librosa • RAG Systems
+
+Tools & Technologies
+Git • GitHub • AWS • VS Code
+
+Core Computer Science
+Data Structures & Algorithms • OOP Concepts • DBMS • Operating Systems • Computer Networks
+
+Portfolio & Socials
+🌐 Portfolio: https://kinjal-portfolio.vercel.app/
+📧 Email: kinjalkharva47@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/kinjal1215
+
+"Striving to build secure, robust, and optimized software that solves real-world challenges."
