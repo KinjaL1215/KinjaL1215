@@ -1,45 +1,98 @@
-Hi, I'm Kinjal Kharva 👋
-Computer Science Engineer | Backend & ML Developer | DSA Solver
-🎓 B.Tech CSE Student at Parul University (CGPA: 8.72)
+# Hi, I'm Kinjal Kharva 👋
+
+### Computer Science Engineer | Backend & ML Developer | DSA Solver
+
+🎓 **B.Tech CSE Student at Parul University** (CGPA: 8.72)
 
 💻 Passionate about building secure backend pipelines, AI-integrated software, and optimizing algorithmic solutions.
 
-🚀 Portfolio:  https://kinjal-portfolio.vercel.app/
+🚀 **Portfolio:** https://kinjal-portfolio.vercel.app/
 
-About Me
-💡 Interested in Backend Systems, Machine Learning, and Cloud Architecture
-🤖 Exploring Generative AI, secure RAG systems (PII masking), and Computer Vision
-🌱 Currently improving my skills in Python, Java, DSA, and AWS Cloud
-🏆 Solved 500+ coding problems across various platforms
-📈 LeetCode: 330+ solved
-📊 CodeChef: 190+ solved
-🎯 Goal: Secure a Software Engineering Internship / Developer role and build impactful AI-driven products
+---
 
-Tech Stack
-Languages
-Python • Java • C • JavaScript • SQL • HTML • CSS
+## 👨‍💻 About Me
 
-Backend
-Flask • Node.js • Express.js • REST APIs • SQLAlchemy
+* 💡 Interested in Backend Systems, Machine Learning, and Cloud Architecture
+* 🤖 Exploring Generative AI, Secure RAG Systems (PII Masking), and Computer Vision
+* 🌱 Currently improving my skills in Python, Java, DSA, and AWS Cloud
+* 🏆 Solved 500+ coding problems across various platforms
+* 📈 LeetCode: 330+ Problems Solved
+* 📊 CodeChef: 190+ Problems Solved
+* 🎯 Goal: Secure a Software Engineering Internship / Developer Role and build impactful AI-driven products
 
-Frontend
-React.js • Tailwind CSS • JavaScript
+---
 
-Databases
-MongoDB • SQLite • SQL • ChromaDB (Vector DB)
+## 🛠️ Tech Stack
 
-AI / Machine Learning
-Machine Learning • Computer Vision • OpenCV • MediaPipe • Librosa • RAG Systems
+### Languages
 
-Tools & Technologies
-Git • GitHub • AWS • VS Code
+* Python
+* Java
+* C
+* JavaScript
+* SQL
+* HTML
+* CSS
 
-Core Computer Science
-Data Structures & Algorithms • OOP Concepts • DBMS • Operating Systems • Computer Networks
+### Backend
 
-Portfolio & Socials
-🌐 Portfolio: https://kinjal-portfolio.vercel.app/
-📧 Email: kinjalkharva47@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/kinjal1215
+* Flask
+* Node.js
+* Express.js
+* REST APIs
+* SQLAlchemy
 
-"Striving to build secure, robust, and optimized software that solves real-world challenges."
+### Frontend
+
+* React.js
+* Tailwind CSS
+* JavaScript
+
+### Databases
+
+* MongoDB
+* SQLite
+* SQL
+* ChromaDB (Vector Database)
+
+### AI / Machine Learning
+
+* Machine Learning
+* Computer Vision
+* OpenCV
+* MediaPipe
+* Librosa
+* RAG Systems
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* AWS
+* VS Code
+
+### Core Computer Science
+
+* Data Structures & Algorithms
+* OOP Concepts
+* DBMS
+* Operating Systems
+* Computer Networks
+
+---
+
+## 📫 Portfolio & Socials
+
+🌐 **Portfolio:** https://kinjal-portfolio.vercel.app/
+
+📧 **Email:** [kinjalkharva47@gmail.com](mailto:kinjalkharva47@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/kinjal1215
+
+🐙 **GitHub:** https://github.com/KinjaL1215
+
+---
+
+## ✨ Motto
+
+> Striving to build secure, robust, and optimized software that solves real-world challenges.
