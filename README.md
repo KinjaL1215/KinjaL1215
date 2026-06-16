@@ -25,59 +25,22 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-
-* Python
-* Java
-* C
-* JavaScript
-* SQL
-* HTML
-* CSS
+`Python` `Java` `C` `JavaScript` `SQL` `HTML` `CSS`
 
 ### Backend
-
-* Flask
-* Node.js
-* Express.js
-* REST APIs
-* SQLAlchemy
+`Flask` `Node.js` `Express.js` `REST APIs` `SQLAlchemy`
 
 ### Frontend
-
-* React.js
-* Tailwind CSS
-* JavaScript
+`React.js` `Tailwind CSS` `JavaScript`
 
 ### Databases
-
-* MongoDB
-* SQLite
-* SQL
-* ChromaDB (Vector Database)
+`MongoDB` `SQLite` `MySQL` `SQL` `ChromaDB`
 
 ### AI / Machine Learning
-
-* Machine Learning
-* Computer Vision
-* OpenCV
-* MediaPipe
-* Librosa
-* RAG Systems
+`Machine Learning` `Computer Vision` `OpenCV` `MediaPipe` `Librosa` `RAG Systems`
 
 ### Tools & Technologies
-
-* Git
-* GitHub
-* AWS
-* VS Code
-
-### Core Computer Science
-
-* Data Structures & Algorithms
-* OOP Concepts
-* DBMS
-* Operating Systems
-* Computer Networks
+`Git` `GitHub` `AWS` `VS Code`
 
 ---
 
