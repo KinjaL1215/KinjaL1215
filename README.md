@@ -2,7 +2,7 @@
 
 ### Computer Science Engineer | Backend & ML Developer | DSA Solver
 
-🎓 **B.Tech CSE Student at Parul University** (CGPA: 8.72)
+🎓 **B.Tech CSE Student at Parul University** (CGPA: 8.77)
 
 💻 Passionate about building secure backend pipelines, AI-integrated software, and optimizing algorithmic solutions.
 
